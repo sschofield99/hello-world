@@ -14,7 +14,7 @@ def main():
 		for name in dataNames:
 			print(name+','),
 
-                print('\n'),
+    print('\n'),
 
 		for name in dataNames:
 			print(data[name]),
